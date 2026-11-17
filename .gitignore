@@ -1,0 +1,18 @@
+# Secrets
+.env
+firmware/**/arduino_secrets.h
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated reports
+*.pdf
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

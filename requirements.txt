@@ -1,0 +1,9 @@
+paho-mqtt>=2.0
+PyMySQL
+python-dotenv
+streamlit
+pandas
+pydeck
+matplotlib
+fpdf2
+twilio
