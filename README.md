@@ -177,3 +177,5 @@ The dashboard interface and the database column names are in French, as the proj
 Second-year FIMI students, INSA Lyon.
 
 - Gaël Boënnec
+- Gabriel Mayer
+- Diego Niedbalski
